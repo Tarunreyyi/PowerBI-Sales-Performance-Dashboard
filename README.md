@@ -45,8 +45,6 @@ PowerBI-Sales-Performance-Dashboard
 │   └── Dashboard.png
 │
 ├── README.md
-├── LICENSE
-└── .gitignore
 ```
 
 ---
